@@ -34,7 +34,4 @@ Swagger UI: http://127.0.0.1:8000/docs
 }
 
 ## Dosya Yapısı
-tren-rezervasyon-api/
-├── main.py
-├── requirements.txt
-└── README.md
+<pre>```plaintexttren-rezervasyon-api/├── main.py├── requirements.txt└── README.md```</pre>
